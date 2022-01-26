@@ -6,4 +6,8 @@ Feel free to use as you wish
 
 [Loading Indicator](https://github.com/ThomasClague/angular-snippets/blob/main/snippets/Loading-indicator.md)
 
+
+
+
+=========================
 [License](https://github.com/ThomasClague/angular-snippets/blob/main/LICENSE)
