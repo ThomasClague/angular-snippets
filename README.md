@@ -9,5 +9,6 @@ Feel free to use as you wish
 
 
 
-========================= \n
+========================= 
+<br />
 [License](https://github.com/ThomasClague/angular-snippets/blob/main/LICENSE)
